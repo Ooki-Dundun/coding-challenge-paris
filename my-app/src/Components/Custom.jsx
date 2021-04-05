@@ -5,8 +5,7 @@ class Custom extends Component {
         super(props);
         this.state = {
             size: null,
-            url: null,
-            size: null
+            url: null
         }
     }
 
